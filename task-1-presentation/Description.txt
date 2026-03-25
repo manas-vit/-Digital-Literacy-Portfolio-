@@ -1,0 +1,7 @@
+For this project, I used Canva to create a cohesive and visually engaging infographic. The design, titled "The Digital Student's Survival Guide," covers three essential pillars for navigating the modern academic world: understanding digital literacy, practicing safe internet habits, and maintaining professional email etiquette.
+
+The visual layout is divided into three distinct, color-coded sections to guide the reader’s eye. The first section defines digital literacy as more than just using technology, but critically evaluating it. The second highlights cybersecurity basics like strong passwords and recognizing phishing, while the third provides a quick checklist for writing respectful, clear emails to professors and peers.
+
+One thing I found interesting while making this design was the challenge of distilling complex topics into brief, punchy text. It required a lot of editing to ensure the infographic didn't look cluttered. It was also surprisingly difficult to choose the right universal icons—finding a single graphic that effectively represents an abstract concept like "digital literacy" took some experimentation, but ultimately relying on clean, minimalist vectors helped keep the overall aesthetic professional and highly readable.
+
+link: https://www.canva.com/design/DAHE-om6hIA/3pp0m2e8qvV7p5wPpHAGLw/edit?ui=eyJBIjp7fX0&referrer=https%3A%2F%2Fwww.canva.com%2Fs%2Ftemplates%3Fquery%3Deducation%2Binfographic
